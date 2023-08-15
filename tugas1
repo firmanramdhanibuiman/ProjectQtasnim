@@ -1,0 +1,73 @@
+1. Membuat Algoritma jus mangga.
+Berikut adalah algoritma dasar untuk membuat jus mangga:
+
+Langkah 1: Persiapan Bahan
+
+- Siapkan beberapa mangga matang yang sudah dikupas dan diiris. Anda dapat memilih mangga yang manis.
+- Siapkan es batu (opsional).
+- Siapkan gula atau pemanis tambahan (opsional).
+- Siapkan air matang.
+- Siapkan susu kental manis.
+
+Langkah 2: Pencampuran
+
+- Masukan potongan mangga ke dalam blender.
+- Tambahkan segelas air ke dalam blender.
+- Tambahkan sedikit gula atau pemanis lainnya sesuai selera.
+- Tambahkan es batu sesuai selera.
+- Tambahkan susu kental manis.
+
+Langkah 3: Proses Blender
+
+- Tutup blender dengan rapat.
+- Nyalakan blender pada kecepatan rendah untuk menghancurkan mangga secara perlahan.
+- Tingkatkan kecepatan blender secara bertahap hingga mencapai kecepatan tinggi. Lanjutkan proses blending sampai mendapatkan konsistensi yang halus.
+
+
+Langkah 4: Penyesuaian Rasa
+
+- Cicipi jus mangga yang telah dibuat.
+- Jika kurang manis, tambahkan gula atau pemanis lainnya sesuai dengan selera Anda.
+- Jika terlalu kental, Anda bisa menambahkan air secukupnya dan kembali mengaduk.
+
+Langkah 5: Penyajian
+
+- Tuangkan jus mangga ke dalam gelas saji.
+- Jus mangga siap disajikan dan dinikmati.
+
+2. Membuat Flowchart dari algoritma yang dibuat
+
+3. Menyebutkan 5 simbol flowchart dan fungsinya
+
+
+4. Menjelaskan apa itu tipe data
+    Data type atau tipe data adalah klasifikasi value suatu variabel yang membantu operasi komputer untuk mengenali nilai data tanpa menghasilkan output error.
+    Tipe data memudahkan program dalam mendeteksi berbagai jenis informasi. Ini juga termasuk memastikan sistem operasional dapat berjalan dan meminimalkan kesalahan (error).
+
+
+5. Sebutkan tipe data pada javascript
+  - Srting
+    String merupakan tipe data untuk menuliskan sebuah karakter. String biasanya memakai tanda kutip baik tunggal maupun ganda pada karakternya. Tipe data ini biasa digunakan untuk membuat sebuah kalimat.
+  - Number
+    Number merupakan tipe data yang digunakan untuk menunjukan angka, baik positif maupun negatif. Number juga merupakan tipe data yang digunakan untuk menunjukan notasi matematika. Dalam tipe data ini juga mencakup beberapa nilai khusus yang ada pada operasi matematika seperti infinity (∞). 
+    Infinity merupakan sebuah nilai yang lebih besar ataupun kondisi dimana nilai menjadi tidak terbatas.
+  - Integer
+    Tipe data ini hampir mirip dengan tipe data number, hanya saja tipe data ini lebih digunakan saat akan menggunakan bilangan bulat, baik untuk bilangan negatif atau positif
+  - Float
+    Tipe data float ini merupakan tipe data yang juga bagian dari number. Tipe data ini biasa digunakan saat akan menggunakan angka yang merupakan bilangan desimal seperti 3.14 atau 0.2.
+  - Boolean
+    Boolean merupakan tipe data yang hanya akan membuat dua nilai yaitu true atau false. Tipe data ini biasa digunakan untuk memberikan nilai pada pilihan seperti yes dan no, on dan off, benar dan salah, dan lainnya. 
+    Intinya tipe data ini hanya digunakan untuk nilai yang berupa 2 pilihan.
+  - Objek
+    Objek merupakan tipe data yang memungkinkan anda menggunakan tipe data lain di dalamnya. Tipe data ini akan berisi nilai dari tipe data. Contoh penggunaan tipe data ini adalah dalam form formulir dimana mungkin akan ada nilai dari tipe data lain di situ.
+  - Array
+    Array adalah tipe data yang menyimpan banyak data di dalam satu variabel. Data – data tersebut diberikan nomor sesuai urutan penulisannya untuk memudahkan kita saat memanggil data tersebut
+  - Simbol
+    Tipe data symbol yang merupakan tipe data baru setelah kehadiran ECMAScript 6 (ES6). Tipe data simbol yang digunakan sebagai pengenal properti objeknya.
+  - Null
+    Null yang merupakan tipe data dan null juga sebuah nilai. Tipe data ini hanya bernilai null. Meskipun nilai null yang terbilang tidak memiliki nilainya
+
+6. Menjelaskan apa itu method dalam javacsript
+    Method JavaScript adalah tindakan yang dapat dilakukan pada objek.
+    Method JavaScript adalah properti yang berisi definisi fungsi.
+    Metode adalah fungsi yang disimpan sebagai properti objek.
