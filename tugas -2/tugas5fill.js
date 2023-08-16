@@ -9,4 +9,5 @@ console.log(numbers); // Output: [1, 2, 0, 0, 0]
 numbers.fill(10, 1, 4);
 
 console.log(numbers); 
-// omment Metode fill digunakan untuk mengisi semua elemen dalam array dengan nilai yang sama, mulai dari indeks yang ditentukan hingga indeks terakhir (atau dari indeks yang ditentukan hingga indeks tertentu).//
+
+//Metode fill digunakan untuk mengisi semua elemen dalam array dengan nilai yang sama, mulai dari indeks yang ditentukan hingga indeks terakhir (atau dari indeks yang ditentukan hingga indeks tertentu).//
