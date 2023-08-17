@@ -35,3 +35,11 @@ async function checkDayUsingTryCatch(day) {
 }
 
 checkDayUsingTryCatch('selasa');
+
+// then dan catch: //
+// then digunakan untuk menangani hasil sukses dari sebuah promise. //
+// catch digunakan untuk menangani kasus ketika promise mengalami error. //
+
+// try/catch: //
+// try digunakan untuk melindungi blok kode yang mungkin menghasilkan error. //
+// catch digunakan untuk menangkap error yang dihasilkan dalam blok try. //
